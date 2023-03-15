@@ -1,0 +1,515 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/MagicLeapARPin'",
+		"Package'/Script/NavigationSystem'",
+		"Package'/Script/UMG'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/Paper2D'",
+		"Package'/Script/PhysicsCore'",
+		"Package'/Script/Landscape'",
+		"Package'/Script/StaticMeshDescription'",
+		"Package'/Script/MeshDescription'",
+		"Package'/Script/AudioExtensions'",
+		"Package'/Script/AudioPlatformConfiguration'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/GameplayTags'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/PropertyAccess'",
+		"Package'/Script/PropertyPath'",
+		"Package'/Script/Slate'",
+		"Package'/Script/AudioMixer'"
+	],
+	"convertedAssets":
+	{
+		"/Game/Blueprints/CharacterBP/FlipbooksState_E.FlipbooksState_E":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/Blueprints/CharacterBP/FlipbooksState_E.FlipbooksState_E",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/FlipbooksState_E__pf2567911892.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/FlipbooksState_E__pf2567911892.cpp"
+		},
+		"/MagicLeapPassableWorld/MagicLeapARPinInfoActor.MagicLeapARPinInfoActor_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/MagicLeapPassableWorld/MagicLeapARPinInfoActor.MagicLeapARPinInfoActor_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MagicLeapARPinInfoActor__pf2635949152.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MagicLeapARPinInfoActor__pf2635949152.cpp"
+		},
+		"/Game/Blueprints/GameInstance_BP.GameInstance_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/GameInstance_BP.GameInstance_BP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/GameInstance_BP__pf2132744816.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/GameInstance_BP__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/StatsTrackerLib_BP.StatsTrackerLib_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/StatsTrackerLib_BP.StatsTrackerLib_BP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/StatsTrackerLib_BP__pf2132744816.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/StatsTrackerLib_BP__pf2132744816.cpp"
+		},
+		"/Game/UI/Ingame/WorldBuilding/Shop_2/WithdrawnalShop.WithdrawnalShop_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Ingame/WorldBuilding/Shop_2/WithdrawnalShop.WithdrawnalShop_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/WithdrawnalShop__pf3373900542.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/WithdrawnalShop__pf3373900542.cpp"
+		},
+		"/Game/UI/Ingame/WorldBuilding/Shop_1/ShopHealthty.ShopHealthty_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Ingame/WorldBuilding/Shop_1/ShopHealthty.ShopHealthty_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ShopHealthty__pf1629536273.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ShopHealthty__pf1629536273.cpp"
+		},
+		"/Game/UI/Ingame/WorldBuilding/School/School.School_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Ingame/WorldBuilding/School/School.School_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/School__pf4136444318.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/School__pf4136444318.cpp"
+		},
+		"/Game/UI/Ingame/StatsUI/StatsUi.StatsUI_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Ingame/StatsUI/StatsUi.StatsUI_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/StatsUi__pf2748595663.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/StatsUi__pf2748595663.cpp"
+		},
+		"/Game/UI/Ingame/StatsUI/QuestUI.QuestUI_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Ingame/StatsUI/QuestUI.QuestUI_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/QuestUI__pf2748595663.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/QuestUI__pf2748595663.cpp"
+		},
+		"/Game/UI/Ingame/RestBuilding/SleepWell.SleepWell_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Ingame/RestBuilding/SleepWell.SleepWell_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/SleepWell__pf645916017.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/SleepWell__pf645916017.cpp"
+		},
+		"/Game/UI/Ingame/RestBuilding/ResultOfDays.ResultOfDays_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Ingame/RestBuilding/ResultOfDays.ResultOfDays_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ResultOfDays__pf645916017.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ResultOfDays__pf645916017.cpp"
+		},
+		"/Game/UI/Gamewin.Gamewin_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Gamewin.Gamewin_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Gamewin__pf1489439355.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Gamewin__pf1489439355.cpp"
+		},
+		"/Game/MiniGame/Working/Working_widget.Working_widget_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/MiniGame/Working/Working_widget.Working_widget_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Working_widget__pf518243491.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Working_widget__pf518243491.cpp"
+		},
+		"/Game/MiniGame/Repair/Repair_widget.Repair_widget_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/MiniGame/Repair/Repair_widget.Repair_widget_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Repair_widget__pf2854336703.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Repair_widget__pf2854336703.cpp"
+		},
+		"/Game/MiniGame/recruit/Recruit_widget.Recruit_widget_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/MiniGame/recruit/Recruit_widget.Recruit_widget_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Recruit_widget__pf2914304342.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Recruit_widget__pf2914304342.cpp"
+		},
+		"/Game/MiniGame/Present/Present_widget.Present_widget_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/MiniGame/Present/Present_widget.Present_widget_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Present_widget__pf3227831806.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Present_widget__pf3227831806.cpp"
+		},
+		"/Game/MiniGame/playstock/share_widget.share_widget_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/MiniGame/playstock/share_widget.share_widget_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/share_widget__pf2085803296.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/share_widget__pf2085803296.cpp"
+		},
+		"/Game/MiniGame/Coffee/Coffee_widget.Coffee_widget_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/MiniGame/Coffee/Coffee_widget.Coffee_widget_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Coffee_widget__pf575078304.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Coffee_widget__pf575078304.cpp"
+		},
+		"/Game/MiniGame/WateringPlant/WateringPlants_WG.WateringPlants_WG_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/MiniGame/WateringPlant/WateringPlants_WG.WateringPlants_WG_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/WateringPlants_WG__pf4273311956.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/WateringPlants_WG__pf4273311956.cpp"
+		},
+		"/Game/UI/DialogUI.DialogUI_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/DialogUI.DialogUI_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/DialogUI__pf1489439355.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/DialogUI__pf1489439355.cpp"
+		},
+		"/Game/Blueprints/InteractionBox_BP.InteractionBox_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/InteractionBox_BP.InteractionBox_BP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/InteractionBox_BP__pf2132744816.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/InteractionBox_BP__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/CharacterBP/CharacterBase_BP.CharacterBase_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/CharacterBP/CharacterBase_BP.CharacterBase_BP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/CharacterBase_BP__pf2567911892.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/CharacterBase_BP__pf2567911892.cpp"
+		},
+		"/Game/UI/MainMenu/MainMenu_W.MainMenu_W_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/MainMenu/MainMenu_W.MainMenu_W_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MainMenu_W__pf1343218889.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MainMenu_W__pf1343218889.cpp"
+		},
+		"/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Sky_Sphere__pf1379775596.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Sky_Sphere__pf1379775596.cpp"
+		},
+		"/Game/UI/Gameover.Gameover_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Gameover.Gameover_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Gameover__pf1489439355.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Gameover__pf1489439355.cpp"
+		},
+		"/Game/MiniGame/recruit/recurit_CBP.recurit_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/MiniGame/recruit/recurit_CBP.recurit_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/recurit_CBP__pf2914304342.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/recurit_CBP__pf2914304342.cpp"
+		},
+		"/Game/Blueprints/NPC/Employee/NPC_ShopE.NPC_ShopE_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Employee/NPC_ShopE.NPC_ShopE_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/NPC_ShopE__pf3765379532.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/NPC_ShopE__pf3765379532.cpp"
+		},
+		"/Game/Blueprints/NPC/Employee/NPC_ShopWB_Child.NPC_ShopWB_Child_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Employee/NPC_ShopWB_Child.NPC_ShopWB_Child_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/NPC_ShopWB_Child__pf3765379532.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/NPC_ShopWB_Child__pf3765379532.cpp"
+		},
+		"/Game/Blueprints/NPC/Reception/ReceptionWelcome_A.ReceptionWelcome_A_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Reception/ReceptionWelcome_A.ReceptionWelcome_A_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ReceptionWelcome_A__pf1718918391.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ReceptionWelcome_A__pf1718918391.cpp"
+		},
+		"/Game/Blueprints/NPC/Employee/NPC_ShopHS_Child.NPC_ShopHS_Child_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Employee/NPC_ShopHS_Child.NPC_ShopHS_Child_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/NPC_ShopHS_Child__pf3765379532.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/NPC_ShopHS_Child__pf3765379532.cpp"
+		},
+		"/Game/Blueprints/NPC/Employee/NPC_ShopEMO_Child1.NPC_ShopEMO_Child1_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Employee/NPC_ShopEMO_Child1.NPC_ShopEMO_Child1_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/NPC_ShopEMO_Child1__pf3765379532.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/NPC_ShopEMO_Child1__pf3765379532.cpp"
+		},
+		"/Game/Blueprints/NPC/Employee/NPC_Employee.NPC_Employee_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Employee/NPC_Employee.NPC_Employee_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/NPC_Employee__pf3765379532.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/NPC_Employee__pf3765379532.cpp"
+		},
+		"/Game/Blueprints/NPC/Employee/NPC_Employee7_CBP.NPC_Employee7_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Employee/NPC_Employee7_CBP.NPC_Employee7_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/NPC_Employee7_CBP__pf3765379532.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/NPC_Employee7_CBP__pf3765379532.cpp"
+		},
+		"/Game/Blueprints/NPC/Employee/NPC_Employee6_CBP.NPC_Employee6_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Employee/NPC_Employee6_CBP.NPC_Employee6_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/NPC_Employee6_CBP__pf3765379532.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/NPC_Employee6_CBP__pf3765379532.cpp"
+		},
+		"/Game/Blueprints/NPC/Employee/NPC_Employee5_CBP.NPC_Employee5_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Employee/NPC_Employee5_CBP.NPC_Employee5_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/NPC_Employee5_CBP__pf3765379532.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/NPC_Employee5_CBP__pf3765379532.cpp"
+		},
+		"/Game/Blueprints/NPC/Employee/NPC_Employee4_CBP.NPC_Employee4_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Employee/NPC_Employee4_CBP.NPC_Employee4_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/NPC_Employee4_CBP__pf3765379532.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/NPC_Employee4_CBP__pf3765379532.cpp"
+		},
+		"/Game/Blueprints/NPC/Employee/NPC_Employee3_CBP.NPC_Employee3_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Employee/NPC_Employee3_CBP.NPC_Employee3_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/NPC_Employee3_CBP__pf3765379532.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/NPC_Employee3_CBP__pf3765379532.cpp"
+		},
+		"/Game/Blueprints/NPC/Employee/NPC_Employee2_CBP.NPC_Employee2_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Employee/NPC_Employee2_CBP.NPC_Employee2_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/NPC_Employee2_CBP__pf3765379532.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/NPC_Employee2_CBP__pf3765379532.cpp"
+		},
+		"/Game/Blueprints/NPC/Employee/NPC_Employee1_CBP.NPC_Employee1_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Employee/NPC_Employee1_CBP.NPC_Employee1_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/NPC_Employee1_CBP__pf3765379532.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/NPC_Employee1_CBP__pf3765379532.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/Reception_CBP.Reception_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/Reception_CBP.Reception_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Reception_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Reception_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/CoffeMachine_CBP.CoffeMachine_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/CoffeMachine_CBP.CoffeMachine_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/CoffeMachine_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/CoffeMachine_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/Withdrawnal_CBP.Withdrawnal_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/Withdrawnal_CBP.Withdrawnal_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Withdrawnal_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Withdrawnal_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/VegetHealth_CBP.VeGetHealth_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/VegetHealth_CBP.VeGetHealth_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/VegetHealth_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/VegetHealth_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/Share_CBP.Share_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/Share_CBP.Share_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Share_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Share_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/School_CBP.School_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/School_CBP.School_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/School_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/School_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/Repair_CBP.Repair_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/Repair_CBP.Repair_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Repair_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Repair_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/Present_BPC.Present_BPC_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/Present_BPC.Present_BPC_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Present_BPC__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Present_BPC__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/PlantPot_CBP.PlantPot_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/PlantPot_CBP.PlantPot_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PlantPot_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/PlantPot_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/OwnHouse_BPC.OwnHouse_BPC_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/OwnHouse_BPC.OwnHouse_BPC_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/OwnHouse_BPC__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/OwnHouse_BPC__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/InsideCompanyDoor_CBP.InsideCompanyDoor_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/InsideCompanyDoor_CBP.InsideCompanyDoor_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/InsideCompanyDoor_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/InsideCompanyDoor_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/House_BPC.House_BPC_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/House_BPC.House_BPC_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/House_BPC__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/House_BPC__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/EmployeeWork_CBP.EmployeeWork_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/EmployeeWork_CBP.EmployeeWork_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/EmployeeWork_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/EmployeeWork_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/ElevetorLGUp_CBP.ElevetorLGUp_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/ElevetorLGUp_CBP.ElevetorLGUp_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ElevetorLGUp_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ElevetorLGUp_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/ElevetorGUp_CBP.ElevetorGUp_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/ElevetorGUp_CBP.ElevetorGUp_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ElevetorGUp_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ElevetorGUp_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/ElevetorGDown_CBP.ElevetorGDown_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/ElevetorGDown_CBP.ElevetorGDown_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ElevetorGDown_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ElevetorGDown_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/Elevetor3Down_CBP.Elevetor3Down_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/Elevetor3Down_CBP.Elevetor3Down_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Elevetor3Down_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Elevetor3Down_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/Elevetor1Up_CBP.Elevetor1Up_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/Elevetor1Up_CBP.Elevetor1Up_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Elevetor1Up_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Elevetor1Up_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/Elevetor1Down_CBP.Elevetor1Down_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/Elevetor1Down_CBP.Elevetor1Down_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Elevetor1Down_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Elevetor1Down_CBP__pf3793762880.cpp"
+		},
+		"/Game/Blueprints/BuildingDoorBP/OutsideCompanyDoor_CBP.OutsideCompanyDoor_CBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BuildingDoorBP/OutsideCompanyDoor_CBP.OutsideCompanyDoor_CBP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/OutsideCompanyDoor_CBP__pf3793762880.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/OutsideCompanyDoor_CBP__pf3793762880.cpp"
+		},
+		"/Game/Assets/Meshes/MainWorld/Clock/Clock_BP.Clock_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Assets/Meshes/MainWorld/Clock/Clock_BP.Clock_BP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Clock_BP__pf226218892.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Clock_BP__pf226218892.cpp"
+		},
+		"/Game/UI/menu/ALL.ALL_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/menu/ALL.ALL_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ALL__pf1007151779.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ALL__pf1007151779.cpp"
+		},
+		"/Game/UI/Ingame/CompanyUI/menu/ALL.ALL_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Ingame/CompanyUI/menu/ALL.ALL_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ALL__pf2934107227.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ALL__pf2934107227.cpp"
+		},
+		"/Game/UI/Ingame/CompanyUI/Reception.Reception_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Ingame/CompanyUI/Reception.Reception_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Reception__pf3134731455.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Reception__pf3134731455.cpp"
+		},
+		"/Game/Blueprints/SideTeleportBP/SeamlessWorld2.SeamlessWorld2_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/SideTeleportBP/SeamlessWorld2.SeamlessWorld2_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/SeamlessWorld2__pf3261865401.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/SeamlessWorld2__pf3261865401.cpp"
+		},
+		"/Game/Blueprints/SideTeleportBP/SeamlessWorld1.SeamlessWorld1_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/SideTeleportBP/SeamlessWorld1.SeamlessWorld1_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/SeamlessWorld1__pf3261865401.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/SeamlessWorld1__pf3261865401.cpp"
+		},
+		"/Game/Blueprints/NPC/Reception/Reception.Reception_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Blueprints/NPC/Reception/Reception.Reception_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Reception__pf1718918391.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Reception__pf1718918391.cpp"
+		},
+		"/Game/Blueprints/MiniGameOpenerLib_BP.MiniGameOpenerLib_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/MiniGameOpenerLib_BP.MiniGameOpenerLib_BP_C",
+			"generatedHeaderPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MiniGameOpenerLib_BP__pf2132744816.h",
+			"generatedCppPath": "C:/Users/james/OneDrive/Documents/Unreal Projects/project__compro/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MiniGameOpenerLib_BP__pf2132744816.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "WindowsNoEditor",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"bExcludeMonolithicHeaders": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}
