@@ -1,5 +1,5 @@
 #include "NativizedAssets.h"
-#include "NPC_Employee3_CBP__pf3765379532.h"
+#include "NPC_Employee3_CBP.h"
 #include "GeneratedCodeHelpers.h"
 #include "Runtime/Engine/Classes/Engine/SimpleConstructionScript.h"
 #include "Runtime/Engine/Classes/Engine/SCS_Node.h"
